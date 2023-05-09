@@ -1,2 +1,3 @@
 # Shortcut_virus_batch
-To remove shortcut virus on your External devices
+To remove shortcut virus in your External devices
+Recover Corrupted Files
